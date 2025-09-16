@@ -1,0 +1,12 @@
+:root{
+  --fg:#222; --bg:#fff; --accent:#2563eb; --muted:#6b7280;
+  --border:#e5e7eb;
+}
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial;
+  color:var(--fg); background:var(--bg); margin:0; padding:0 24px 64px}
+header{padding:32px 0 16px; border-bottom:1px solid var(--border)}
+h1{margin:0 0 8px}
+.accent{color:var(--accent)}
+nav a{margin-right:14px; color:var(--accent); text-decoration:none}
+nav a:hover{text-decoration:underline}
+section{padding:24px 0; border-bottom:1px dashed var(--border)}
