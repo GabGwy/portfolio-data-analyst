@@ -40,7 +40,7 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 ---
 
 ### Cahier des charges fonctionnel
-📄 [Télécharger le document (PDF)](Cahier_des_charges_fonctionel.pdf)
+📄 [Télécharger le document (PDF)](Cahier%20des%20charges%20fonctionnel.pdf)
 
 ---
 
