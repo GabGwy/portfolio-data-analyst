@@ -1,2 +1,52 @@
-# Aéroworld
-Ce dossier contient les livrables liés au projet Aéroworld (portfolio final).
+#  Projet Aéroworld – Portfolio Final
+
+Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a pour objectif de démontrer mes compétences de Data Analyst confirmé à travers un portfolio professionnel.
+
+---
+
+##  Livrables principaux
+
+### 1. Diagramme de Gantt – Organisation du projet
+- Planification des étapes du projet sur 4 semaines.  
+- Outil utilisé : Tableau Software.  
+
+🔗 [Voir le Gantt interactif sur Tableau Public](https://public.tableau.com/views/Gantttableau/Gantt?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+*(ou bien [Version PDF](gantt.pdf) )*
+
+---
+
+### 2. Mon profil de Data Analyst
+- Dashboard interactif présentant mes compétences techniques, soft skills et mon parcours de formation.  
+- Synthèse visuelle de 13 projets menés en 1 an.  
+
+🔗 [Voir le Dashboard “Mon profil” sur Tableau Public](https://public.tableau.com/views/dashbordveille/Histoire1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+---
+
+### 3. Veille Data & Innovation 2025
+- Dashboard de veille technologique et métier.  
+- Met en avant l’évolution des langages (Python, R, SQL), des outils de data visualisation et les tendances émergentes.  
+
+🔗 [Voir le Dashboard “Veille 2025” sur Tableau Public](https://public.tableau.com/shared/5TGDGX9BX?:display_count=n&:origin=viz_share_link)  
+
+---
+
+##  Autres documents du projet
+- **Analyse du besoin métier** → `analyse_besoin.pdf`  
+- **Cahier des charges fonctionnel** → `cahier_des_charges.pdf`  
+- **Documentation** → `documentation.pdf`  
+- **Vidéo de présentation** → [Lien Loom / YouTube](https://...)  
+
+---
+
+##  Compétences mises en œuvre
+- Analyse du besoin client et rédaction de livrables organisationnels  
+- Gestion de projet (planning, diagramme de Gantt)  
+- Construction de dashboards interactifs avec Tableau Software  
+- Communication et data storytelling  
+- Respect des normes (RGPD, posture de consultant)  
+
+---
+
+🔗 Ce projet représente l’aboutissement de ma formation Data Analyst et constitue le cœur de mon portfolio professionnel.
