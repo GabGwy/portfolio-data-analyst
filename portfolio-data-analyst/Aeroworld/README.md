@@ -22,6 +22,8 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 
 🔗 [Voir le Dashboard “Mon profil” sur Tableau Public](https://public.tableau.com/views/dashbordveille/Histoire1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
+*(ou bien [Version PDF](Mon%20profil%20Data%20Analyst.pdf) )*
+
 ---
 
 ### 3. Veille Data & Innovation 2025
@@ -29,6 +31,8 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 - Met en avant l’évolution des langages (Python, R, SQL), des outils de data visualisation et les tendances émergentes.  
 
 🔗 [Voir le Dashboard “Veille 2025” sur Tableau Public](https://public.tableau.com/shared/5TGDGX9BX?:display_count=n&:origin=viz_share_link)  
+
+*(ou bien [Version PDF](Veille%20Data%20%26%20Innovation%202025.pdf) )*
 
 ---
 
