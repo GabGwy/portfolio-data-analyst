@@ -32,11 +32,25 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 
 ---
 
-##  Autres documents du projet
-- **Analyse du besoin métier** → `analyse_besoin.pdf`  
-- **Cahier des charges fonctionnel** → `cahier_des_charges.pdf`  
-- **Documentation** → `documentation.pdf`  
-- **Vidéo de présentation** → [Lien Loom / YouTube](https://...)  
+## 📂 Documents organisationnels
+
+### Analyse du besoin métier
+📄 [Télécharger le document (PDF)](Analyse_des_besoins_métiers.pdf)
+
+---
+
+### Cahier des charges fonctionnel
+📄 [Télécharger le document (PDF)](Cahier_des_charges_fonctionel.pdf)
+
+---
+
+### Documentation du projet
+📄 [Télécharger le document (PDF)](documentation.pdf)
+
+---
+
+### Vidéo de présentation
+🎥 [Regarder la vidéo sur Loom / YouTube](https://lien_vers_video)
 
 ---
 
