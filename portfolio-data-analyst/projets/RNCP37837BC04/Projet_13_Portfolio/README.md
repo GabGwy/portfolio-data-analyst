@@ -43,12 +43,14 @@ Pas de données brutes. Le projet s’appuie sur les livrables précédents (pro
 - Valorisation des compétences techniques et soft skills acquises  
 
 ## 5) Livrables
-- Cahier des charges fonctionnel  
-- Diagramme de Gantt  
-- Mock-ups et dashboards (veille, profil)  
-- Documentation technique et fonctionnelle  
-- Vidéo de présentation  
-- Lien GitHub Pages vers le portfolio  
+- [Analyse des besoins métiers](Analyse%20des%20besoins%20métiers.pdf)
+- [Cahier des charges fonctionnel](Cahier%20des%20charges%20fonctionnel.pdf)  
+- [Diagramme de Gantt](Gantt.pdf]  
+- [Dashboards de veille](Veille%20Data%20%26%20Innovation%202025.pdf)
+- [Dashbord de profil](Mon%20profil%20Data%20Analyst.pdf) 
+- [Documentation technique et fonctionnelle (guide de création graphiques sur Tableau)](Guide_creation_graphiques_Tableau.pdf) 
+- [Vidéo de présentation Tableau software](https://www.loom.com/share/87058b318b6847e4b634ce2d70279403?sid=1405af59-7605-4fa0-bbe8-5975af526a66)  
+- [Lien GitHub Pages vers le portfolio](https://gabgwy.github.io/portfolio-data-analyst/portfolio-data-analyst/)  
 
 ## 6) Limites & suites
 Le portfolio doit être mis à jour régulièrement avec de nouveaux projets, veilles et compétences acquises pour rester pertinent dans le temps.
