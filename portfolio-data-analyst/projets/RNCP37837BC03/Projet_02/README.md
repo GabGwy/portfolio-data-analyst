@@ -30,7 +30,7 @@ L’entreprise e-commerce souhaite mieux comprendre ses performances de ventes a
 - Nettoyage et structuration des données  
 - Création de visualisations interactives (tableaux, graphiques)  
 - Mise en forme avec des bonnes pratiques d’accessibilité et de data storytelling  
-- Outils : Python (Pandas, Matplotlib/Seaborn) ou Tableau / Power BI  
+- Outils : Python (Pandas, Matplotlib/Seaborn) 
 
 ## 4) Résultats & insights
 - Identification des catégories les plus rentables  
@@ -38,8 +38,8 @@ L’entreprise e-commerce souhaite mieux comprendre ses performances de ventes a
 - Recommandations pour améliorer la stratégie commerciale  
 
 ## 5) Livrables
-- Dashboard interactif présentant les ventes  
-- Présentation orale avec data storytelling  
+- [Rapport de présentation](Gwynn_Gabriel_1_rapport_mensuel_102024.pdf)  
+- [Données excel](Gwynn_Gabriel_2_clients_affilies_102024.xlsx)  
 
 ## 6) Limites & suites
 Analyse descriptive uniquement. Des modèles prédictifs pourraient être ajoutés ultérieurement pour anticiper les ventes futures.
