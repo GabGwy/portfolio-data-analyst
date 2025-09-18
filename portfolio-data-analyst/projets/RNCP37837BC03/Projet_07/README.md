@@ -38,9 +38,7 @@ L’entreprise souhaite un outil simple et visuel pour suivre l’avancement de 
 - Identification rapide des retards et surcoûts  
 
 ## 5) Livrables
-- Fichier Power BI (.pbix)  
-- Dashboard publié (Power BI Service ou capture d’écran)  
-- Documentation rapide des KPI  
+- [Tableau de bord](Gwynn_Gabriel_1_tableau%20de%20bord_012025.pbix)  
 
 ## 6) Limites & suites
 Le reporting est statique si les données ne sont pas connectées à une source en temps réel. Une connexion directe à un outil de gestion de projets (ex : Jira, MS Project) pourrait améliorer la pertinence.
