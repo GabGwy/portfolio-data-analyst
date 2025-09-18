@@ -39,9 +39,8 @@ La boutique souhaite fiabiliser sa base de données (ventes, clients, produits) 
 - Identification des incohérences majeures corrigées  
 
 ## 5) Livrables
-- Notebook d’analyse et de nettoyage  
-- Rapport documentant les règles appliquées  
-- Jeu de données final nettoyé  
+- [Notebook d’analyse et de nettoyage](Gwynn_Gabriel_1_notebook_012025.ipynb)  
+- [Présentation](Gwynn_Gabriel_2_presentation_012025.pdf)  
 
 ## 6) Limites & suites
 Les données étant figées, un processus de mise à jour automatisée serait nécessaire pour maintenir la qualité à long terme.
