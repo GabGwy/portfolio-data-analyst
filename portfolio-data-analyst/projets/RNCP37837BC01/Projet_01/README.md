@@ -37,9 +37,9 @@ Pas de jeu de données, projet centré sur l’organisation et la préparation.
 - Clarification de mes points forts (rigueur, esprit critique) et points à améliorer (organisation, priorisation)  
 
 ## 5) Livrables
-- Carte mentale de démarrage  
-- Cahier des charges initial  
-- Diagramme de Gantt simplifié de la formation  
+- [Fiche découverte debut de formation](Gwynn_Gabriel_1_Fiche%20de%20découverte%20de%20début%20de%20formation_02102024.pdf)  
+- [Fiche découverte des attendus métiers](Gwynn_Gabriel_1_fiche%20de%20découverte%20des%20attendus%20du%20métier_02102024.pdf) 
+- [Grille d'auto-évalution](Gwynn_Gabriel_1_grille%20d'auto-évaluation_02102024.pdf) 
 
 ## 6) Limites & suites
 Le projet reste introductif et ne manipule pas de données réelles. Les prochaines étapes consistent à mettre en pratique les outils d’analyse et de visualisation.
