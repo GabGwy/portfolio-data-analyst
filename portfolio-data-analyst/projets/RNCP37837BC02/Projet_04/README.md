@@ -40,9 +40,9 @@ L’organisme de santé publique souhaite comprendre certains phénomènes liés
 - Recommandations à destination des décideurs  
 
 ## 5) Livrables
-- Notebook d’analyse (R ou Python)  
-- Rapport écrit avec graphiques et interprétations  
-- Présentation synthétique des résultats  
+- [Notebook en Python](Gwynn_Gabriel_1_notebook_112024.ipynb)  
+- [Notebook en PDF](Gwynn_Gabriel_2_notebook-pdf_112024.pdf) 
+- [Présentation synthétique des résultats](Gwynn_Gabriel_3_presentation_112024.pdf)  
 
 ## 6) Limites & suites
 Analyse basée sur un jeu de données limité. Des analyses multivariées plus complexes pourraient compléter cette étude.
