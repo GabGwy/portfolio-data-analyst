@@ -39,8 +39,9 @@ Les entreprises doivent publier un index de l’égalité femmes/hommes. Le rôl
 - Recommandations pour améliorer le score global  
 
 ## 5) Livrables
-- Fichier d’analyse (workflow KNIME)   
-- Présentation synthétique des résultats et recommandations  
+- [Fichier d’analyse (workflow KNIME)](Gwynn_Gabriel_1_workflow_KNIME_022025.knwf)
+- [Fichier CSV](Gwynn_Gabriel_2_fichier_csv_022025.csv)   
+- [Présentation synthétique des résultats et recommandations](Gwynn_Gabriel_3_support_presentation_022025.pdf)  
 
 ## 6) Limites & suites
 L’étude dépend de la qualité des données RH et de la transparence des processus internes. Des analyses plus fines par service ou ancienneté pourraient être ajoutées.
