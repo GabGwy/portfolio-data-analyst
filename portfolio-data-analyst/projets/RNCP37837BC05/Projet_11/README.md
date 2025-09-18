@@ -40,9 +40,9 @@ Une entreprise souhaite mieux comprendre son marché et ses clients. Le rôle du
 - Recommandations stratégiques basées sur les résultats  
 
 ## 5) Livrables
-- Notebook d’analyse (Python)  
-- Graphiques (ACP, clusters, corrélations)  
-- Rapport ou présentation synthétique des résultats  
+- [Notebook d’analyse (Python)](Gwynn_Gabriel_1_preparation_nettoyage_analyse_exploratoire_062025.ipynb)  
+- [Notebook de visualisation graphiques (ACP, clusters, corrélations)](Gwynn_Gabriel_2_clustering_visualisations_06225.ipynb)  
+- [Présentation synthétique des résultats](Gwynn_Gabriel_3_presentation_062025.pdf)  
 
 ## 6) Limites & suites
 Les données peuvent être limitées en volume ou en précision. Une collecte plus large et des modèles prédictifs avancés pourraient renforcer l’étude.
