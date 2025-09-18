@@ -1,31 +1,156 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio Data Analyst - [Gab Gwy]</title>
-  <link rel="stylesheet" href="css/style.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio Data Analyst – Aéroworld & Projets RNCP</title>
+  <meta name="description" content="Portfolio Data Analyst : Aéroworld (Gantt, Profil, Veille), projets RNCP, documents et démonstrations Tableau." />
+  <style>
+    :root{
+      --bg:#ffffff; --fg:#111827; --muted:#6b7280; --accent:#2563eb;
+      --card:#f9fafb; --border:#e5e7eb;
+    }
+    *{box-sizing:border-box}
+    body{margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial; color:var(--fg); background:var(--bg); line-height:1.55}
+    header{padding:28px 18px; border-bottom:1px solid var(--border); background:#fff; position:sticky; top:0; z-index:10}
+    .container{max-width:1080px; margin:0 auto}
+    h1{margin:0 0 6px; font-size:1.75rem}
+    .sub{color:var(--muted); margin:0}
+    nav{margin-top:12px; display:flex; flex-wrap:wrap; gap:10px}
+    nav a{color:#fff; background:var(--accent); padding:8px 12px; border-radius:10px; text-decoration:none; font-weight:600; font-size:.95rem}
+    main{padding:28px 18px}
+    section{margin:28px 0}
+    h2{margin:0 0 12px; font-size:1.5rem}
+    p{margin:8px 0}
+    .grid{display:grid; gap:16px}
+    @media(min-width:800px){ .grid.cards{grid-template-columns:repeat(3,1fr)} }
+    .card{background:var(--card); border:1px solid var(--border); border-radius:14px; padding:16px}
+    .card h3{margin:0 0 8px; font-size:1.1rem}
+    .card p{color:var(--muted); margin:0 0 12px}
+    .btn{display:inline-block; background:var(--accent); color:#fff; text-decoration:none; padding:8px 12px; border-radius:10px; font-weight:600}
+    .links{display:flex; flex-wrap:wrap; gap:10px; margin-top:8px}
+    .pill{display:inline-block; padding:6px 10px; border:1px solid var(--border); border-radius:999px; color:var(--fg); text-decoration:none; background:#fff}
+    .list{display:grid; gap:10px}
+    footer{border-top:1px solid var(--border); padding:22px 18px; color:var(--muted)}
+    .hero{background:linear-gradient(180deg, #fff, #f7fbff); border:1px solid var(--border); border-radius:14px; padding:18px}
+    .highlight{font-weight:700}
+  </style>
 </head>
 <body>
   <header>
-    <h1>👋 Bonjour, je suis <span class="accent">[Gab Gwy]</span></h1>
-    <p>🎯 Data Analyst Consultant — analyse, visualisation, gestion de projets data.</p>
-    <nav>
-      <a href="dashboards/veille.html">Veille 2025</a>
-      <a href="dashboards/profil.html">Mon profil</a>
-      <a href="projets/">Projets</a>
-      <a href="docs/">Documents</a>
-    </nav>
+    <div class="container">
+      <h1>Portfolio <span class="highlight">Data Analyst</span></h1>
+      <p class="sub">Dashboards Tableau • Projets RNCP • Livrables Aéroworld</p>
+      <nav>
+        <a href="#presentation">Présentation</a>
+        <a href="#aeroworld">Aéroworld</a>
+        <a href="#dashboards">Dashboards</a>
+        <a href="#projets">Projets RNCP</a>
+        <a href="#docs">Documents</a>
+        <a href="Aeroworld/">Dossier Aéroworld</a>
+      </nav>
+    </div>
   </header>
-  <main>
-    <section>
+
+  <main class="container">
+    <section id="presentation" class="hero">
       <h2>📌 Présentation</h2>
-      <p>Data Analyst passionné, je transforme les données en décisions stratégiques grâce à Python, SQL et Power BI.  
-Mon approche : comprendre le besoin métier et livrer des solutions claires, utiles et innovantes.</p>
+      <p>
+        Data Analyst passionné, je transforme les données en décisions stratégiques grâce à Python, SQL et Tableau/Power BI.
+        Mon approche&nbsp;: comprendre le besoin métier et livrer des solutions claires, utiles et innovantes.
+      </p>
+    </section>
+
+    <section id="aeroworld">
+      <h2>🌍 Projet Aéroworld – Portfolio final</h2>
+      <p>
+        Ensemble des livrables du projet final : Gantt, “Mon profil Data Analyst”, “Veille Data &amp; Innovation 2025”, documents et vidéo.
+      </p>
+      <div class="links">
+        <a class="pill" href="Aeroworld/">Ouvrir le dossier Aéroworld</a>
+        <a class="pill" href="Aeroworld/Analyse%20des%20besoins%20métiers.pdf">Analyse du besoin (PDF)</a>
+        <a class="pill" href="Aeroworld/Cahier%20des%20charges%20fonctionnel.pdf">Cahier des charges (PDF)</a>
+        <a class="pill" href="Aeroworld/Guide_creation_graphiques_Tableau.pdf">Guide Tableau (PDF)</a>
+        <a class="pill" href="https://www.loom.com/share/87058b318b6847e4b634ce2d70279403?sid=1405af59-7605-4fa0-bbe8-5975af526a66" target="_blank" rel="noopener">Vidéo Loom</a>
+      </div>
+    </section>
+
+    <section id="dashboards">
+      <h2>📊 Dashboards Tableau Public</h2>
+      <div class="grid cards">
+        <div class="card">
+          <h3>Diagramme de Gantt (4 semaines)</h3>
+          <p>Planification du projet final Aéroworld réalisée avec Tableau Software.</p>
+          <div class="links">
+            <a class="btn" target="_blank" rel="noopener" href="https://public.tableau.com/views/Gantttableau/Gantt?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Voir sur Tableau Public</a>
+            <a class="pill" href="Aeroworld/gantt.pdf">PDF</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Mon profil Data Analyst</h3>
+          <p>Compétences techniques, soft skills et parcours (13 projets en 1 an).</p>
+          <div class="links">
+            <a class="btn" target="_blank" rel="noopener" href="https://public.tableau.com/views/dashbordveille/Histoire1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Voir sur Tableau Public</a>
+            <a class="pill" href="Aeroworld/Mon%20profil%20Data%20Analyst.pdf">PDF</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Veille Data &amp; Innovation 2025</h3>
+          <p>Tendances des langages (Python/R/SQL), outils de dataviz et signaux émergents.</p>
+          <div class="links">
+            <a class="btn" target="_blank" rel="noopener" href="https://public.tableau.com/shared/5TGDGX9BX?:display_count=n&:origin=viz_share_link">Voir sur Tableau Public</a>
+            <a class="pill" href="Aeroworld/Veille%20Data%20%26%20Innovation%202025.pdf">PDF</a>
+          </div>
+        </div>
+      </div>
+      <p style="margin-top:10px;color:var(--muted)">Astuce : pour intégrer un dashboard directement ici, crée une page
+        dans <code>dashboards/</code> avec une balise <code>&lt;iframe&gt;</code> vers Tableau Public.</p>
+    </section>
+
+    <section id="projets">
+      <h2>🗂️ Projets RNCP</h2>
+      <div class="grid" style="gap:8px">
+        <div class="list">
+          <h3>RNCP37837BC01 – Structurer &amp; gérer la base</h3>
+          <a class="pill" href="projets/RNCP37837BC01/">Ouvrir le bloc</a>
+        </div>
+        <div class="list">
+          <h3>RNCP37837BC02 – Collecter &amp; analyser</h3>
+          <a class="pill" href="projets/RNCP37837BC02/">Ouvrir le bloc</a>
+        </div>
+        <div class="list">
+          <h3>RNCP37837BC03 – Visualiser &amp; interpréter</h3>
+          <a class="pill" href="projets/RNCP37837BC03/">Ouvrir le bloc</a>
+        </div>
+        <div class="list">
+          <h3>RNCP37837BC04 – Piloter un projet data</h3>
+          <a class="pill" href="projets/RNCP37837BC04/Projet_13_Portfolio/">Ouvrir le projet 13</a>
+        </div>
+        <div class="list">
+          <h3>RNCP37837BC05 – Spécialisation statistiques</h3>
+          <a class="pill" href="projets/RNCP37837BC05/">Ouvrir le bloc</a>
+        </div>
+      </div>
+      <p style="margin-top:10px;color:var(--muted)">
+        Conseil : chaque dossier projet contient un <code>README.md</code> (objectif, données, méthodes, résultats, livrables).
+      </p>
+    </section>
+
+    <section id="docs">
+      <h2>📁 Documents</h2>
+      <div class="links">
+        <a class="pill" href="docs/">Ouvrir le dossier /docs</a>
+        <a class="pill" href="projets/">Voir tous les projets</a>
+        <a class="pill" href="Aeroworld/">Voir le dossier Aéroworld</a>
+      </div>
     </section>
   </main>
+
   <footer>
-    <small>© [Gab Gwy] — Portfolio Data Analyst</small>
+    <div class="container">
+      <div>© 2025 • Portfolio Data Analyst</div>
+      <div style="margin-top:6px">Contact : <span class="muted">g****@gmail.com / LinkedIn ici</span></div>
+    </div>
   </footer>
 </body>
 </html>
