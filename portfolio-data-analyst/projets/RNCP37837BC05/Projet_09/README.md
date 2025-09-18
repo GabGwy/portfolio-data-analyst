@@ -38,9 +38,8 @@ La librairie souhaite comprendre l’évolution de ses ventes dans le temps, ide
 - Recommandations pour adapter les stocks et les campagnes marketing  
 
 ## 5) Livrables
-- Notebook d’analyse (Python)  
-- Graphiques de séries temporelles et tests statistiques  
-- Présentation synthétique des résultats  
+- [Notebook d’analyse (Python)](Gwynn_Gabriel_1_notebook_032025.ipynb)   
+- [Présentation synthétique des résultats](Gwynn_Gabriel_2_support_032025.pdf)  
 
 ## 6) Limites & suites
 Les prévisions restent simples. Un modèle de machine learning plus avancé (ARIMA, Prophet) pourrait affiner les prédictions.
