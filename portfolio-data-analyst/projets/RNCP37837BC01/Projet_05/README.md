@@ -39,9 +39,8 @@ Une entreprise immobilière souhaite mieux exploiter ses données de biens (loca
 - Mise en évidence de tendances de marché  
 
 ## 5) Livrables
-- Script SQL de création de la base  
-- Jeu de requêtes répondant à des questions métier  
-- Documentation de la base (dictionnaire de données, schéma relationnel)  
+- [Dictionnaire de données](Gwynn_Gabriel_1_dictionnaire_de_donnees_122024.pdf)  
+- [Support de présentation](Gwynn_Gabriel_2_support_presentation_122024.pdf) 
 
 ## 6) Limites & suites
 La base repose sur des données limitées. Pour un usage réel, il faudrait l’intégrer à un système d’information complet avec mises à jour automatiques.
