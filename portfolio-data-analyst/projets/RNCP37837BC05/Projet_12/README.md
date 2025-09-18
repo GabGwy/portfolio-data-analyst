@@ -40,9 +40,9 @@ L’Organisation nationale de lutte contre le faux-monnayage souhaite mettre en 
 - Comparaison des méthodes supervisées et non supervisées  
 
 ## 5) Livrables
-- Notebook d’analyse et de modélisation  
-- Rapport d’évaluation des modèles  
-- Présentation synthétique des résultats  
+- [Notebook d’analyse et de modélisation](Gwynn_Gabriel_1_Notebook_analyse_072025.ipynb)  
+- [Notebook contenant l'application fonctionnelle](Gwynn_Gabriel_2_Notebook_application_072025.ipynb)  
+- [Présentation synthétique des résultats](Gwynn_Gabriel_3_presentation_072025.pdf)  
 
 ## 6) Limites & suites
 Le modèle dépend de la qualité et de la représentativité du dataset. Une mise à jour avec de nouvelles données serait nécessaire pour un déploiement réel.
