@@ -12,7 +12,7 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 
 🔗 [Voir le Gantt interactif sur Tableau Public](https://public.tableau.com/views/Gantttableau/Gantt?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
-*(ou bien [Version PDF](gantt.pdf) )*
+*(ou bien [Version PDF](Gantt.pdf) )*
 
 ---
 
