@@ -36,7 +36,7 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 
 ---
 
-## 📂 Documents organisationnels
+## Documents organisationnels
 
 ### Analyse du besoin métier
 📄 [Télécharger le document (PDF)](Analyse%20des%20besoins%20métiers.pdf)
@@ -48,8 +48,8 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 
 ---
 
-### Documentation du projet
-📄 [Télécharger le document (PDF)](documentation.pdf)
+### Guide de création de graphiques avec Tableau software
+📄 [Télécharger le document (PDF)](Guide_creation_graphiques_Tableau.pdf)
 
 ---
 
