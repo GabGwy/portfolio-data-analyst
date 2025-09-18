@@ -41,9 +41,8 @@ Les données sur l’eau potable permettent d’analyser l’accès à une resso
 - Support visuel pour sensibiliser et aider à la décision  
 
 ## 5) Livrables
-- Tableau de bord interactif (Tableau)  
-- Documentation méthodologique  
-- Présentation des résultats  
+- [Tableau de bord interactif sur Tableau software (version pdf)](Gwynn_Gabriel_2_dashbord_05225.pdf)   
+- [Présentation des résultats](Gwynn_Gabriel_1_presentation_052025.pdf)  
 
 ## 6) Limites & suites
 Les résultats dépendent des données disponibles. Des mises à jour régulières et des sources plus locales pourraient enrichir l’étude.
