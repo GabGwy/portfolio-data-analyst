@@ -1,11 +1,11 @@
-# 📂 Projets de formation – Data Analyst
+#  Projets de formation – Data Analyst
 
 Ce dossier regroupe l’ensemble des **13 projets** réalisés dans le cadre de ma formation de Data Analyst.  
 Ils sont organisés par blocs de compétences **RNCP** afin de refléter la logique pédagogique et les compétences acquises.  
 
 ---
 
-## 🗂️ Organisation par blocs RNCP
+##  Organisation par blocs RNCP
 
 ### RNCP37837BC01 – Structurer et gérer la base de données
 - [Projet 1 – Prenez en main votre formation de Data Analyst](RNCP37837BC01/Projet_01/)  
@@ -40,7 +40,7 @@ Ils sont organisés par blocs de compétences **RNCP** afin de refléter la logi
 
 ---
 
-## 🎯 Compétences globales acquises
+##  Compétences globales acquises
 - SQL : conception, manipulation et requêtage de bases de données  
 - Python : analyses statistiques, machine learning, data visualisation  
 - Power BI & Tableau : conception de dashboards interactifs  
