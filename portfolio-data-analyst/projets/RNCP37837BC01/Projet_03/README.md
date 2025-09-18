@@ -39,9 +39,10 @@ Une entreprise a besoin d’extraire des informations clés de sa base de donné
 - Documentation claire des requêtes utilisées  
 
 ## 5) Livrables
-- Script SQL avec toutes les requêtes  
-- Export des résultats (CSV ou tableau)  
-- Présentation synthétique des analyses  
+- [Document technique](Gwynn_Gabriel_1_documenttechnique_102024.pdf) 
+- [Correction des requêtes SQL](Gwynn_Gabriel_2_liste_102024.pdf) 
+- [Méthodologie](Gwynn_Gabriel_3_methodologie_102024.pdf)
+- [Grille d'évaluation](Gwynn_Gabriel_4_grille_102024.pdf)  
 
 ## 6) Limites & suites
 Analyse limitée aux requêtes SQL de base. Une optimisation plus poussée (vues, procédures stockées) pourrait être envisagée.
