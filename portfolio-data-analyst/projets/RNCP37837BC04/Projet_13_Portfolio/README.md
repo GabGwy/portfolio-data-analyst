@@ -45,7 +45,7 @@ Pas de données brutes. Le projet s’appuie sur les livrables précédents (pro
 ## 5) Livrables
 - [Analyse des besoins métiers](Analyse%20des%20besoins%20métiers.pdf)
 - [Cahier des charges fonctionnel](Cahier%20des%20charges%20fonctionnel.pdf)  
-- [Diagramme de Gantt](Gantt.pdf]  
+- [Diagramme de Gantt](Gantt.pdf)  
 - [Dashboards de veille](Veille%20Data%20%26%20Innovation%202025.pdf)
 - [Dashbord de profil](Mon%20profil%20Data%20Analyst.pdf) 
 - [Documentation technique et fonctionnelle (guide de création graphiques sur Tableau)](Guide_creation_graphiques_Tableau.pdf) 
