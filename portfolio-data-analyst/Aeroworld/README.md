@@ -20,7 +20,7 @@ Ce dossier contient les livrables liés au projet final **Aéroworld**, qui a po
 - Dashboard interactif présentant mes compétences techniques, soft skills et mon parcours de formation.  
 - Synthèse visuelle de 13 projets menés en 1 an.  
 
-🔗 [Voir le Dashboard “Mon profil” sur Tableau Public](https://public.tableau.com/views/dashbordveille/Histoire1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+🔗 [Voir le Dashboard “Mon profil” sur Tableau Public](https://public.tableau.com/shared/THSNTGZQD?:display_count=n&:origin=viz_share_link)  
 
 *(ou bien [Version PDF](Mon%20profil%20Data%20Analyst.pdf) )*
 
